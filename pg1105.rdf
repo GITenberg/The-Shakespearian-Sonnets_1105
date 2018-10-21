@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/1105">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1105.epub.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T02:45:45.546994</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N30a6deb8287c4b6c823e79271fb825d2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52943</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1105.html.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T02:45:45.450001</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149004</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbdf6640e3f1f4a42bf0af2b9e3d7e91f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/1105/1105.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N88cb236ebb484557889d9a22db7277bf">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N327a4561bd7948e4a3b515648fb8e94c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44882</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-04-01T16:16:26</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1105.kindle.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T02:45:46.164992</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228027</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7995453482a64cac820408154a29cb4d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Nc358639231734f42afe09f21aebb4048">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1105.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T02:45:45.397030</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne4818489860745f5818cbe8f1065ad3b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149004</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1105.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228024</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T02:45:46.723970</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N33e1fb6403f24663b44cf32f07a8f4cb">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1105.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11374</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9bb033c1fc1d4b0ea4c85bf3f26dc68b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:00:52.514339</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-11-01</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1105.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd610c45a6cb249619b1d81d8fb8dab43">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115149</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T02:45:45.251996</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:alternative>The Shakespearian Sonnets</dcterms:alternative>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Ncda4c0ffb24441a399a2729ab8e947a9">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PR</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nffbf6d7b05434b9a8d5ea1a4cc91add8">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>English poetry</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/65">
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1564</pgterms:birthdate>
+        <pgterms:alias>Shakspeare, William</pgterms:alias>
+        <pgterms:alias>Shakspere, William</pgterms:alias>
+        <pgterms:name>Shakespeare, William</pgterms:name>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/William_Shakespeare"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1616</pgterms:deathdate>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>The Sonnets</dcterms:title>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1105.epub.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T02:45:45.609014</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52944</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd137089d17474d70b3bde74084e303be">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/1105/1105.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/1105"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-04-01T16:16:06</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1b2099afa813477d80f7eb42a08ba350">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115148</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N1b8fbc4a15fc41f7927ed75da816064c">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:description>World Library</dcterms:description>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N7b54627b2ccb42df88a5cd5251496ca7">
+        <rdf:value>Sonnets, English</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:rights>Copyrighted. Read the copyright notice inside this book for details.</dcterms:rights>
+  </pgterms:ebook>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/William_Shakespeare">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
